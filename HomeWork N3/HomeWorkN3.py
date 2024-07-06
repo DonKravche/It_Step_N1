@@ -1,29 +1,31 @@
 # 1
-# user_input = int(input("Enter a number: "))
-#
-# while user_input > 0:
-#     print(user_input)
-#     user_input -= 1
+
+user_input = int(input("Enter a number: "))
+
+while user_input > 0:
+    print(user_input)
+    user_input -= 1
 
 
 # 2
-# total_sum = 0
-#
-# while True:
-#     user_input = input("შეიყვანეთ რიცხვი ან 'sum' ჯამის გასათვლელად: ")
-#
-#     if user_input.lower() == "sum":
-#         print(f"შეყვანილი დადებითი რიცხვების ჯამი არის: {total_sum}")
-#         break
-#
-#     if user_input.isdigit():
-#         number = int(user_input)
-#         if number > 0:
-#             total_sum += number
-#         else:
-#             print("გთხოვთ, შეიყვანეთ დადებითი რიცხვი.")
-#     else:
-#         print("გთხოვთ, შეიყვანეთ დადებითი რიცხვი ან 'sum' ჯამის გამოსათვლელად.")
+
+total_sum = 0
+
+while True:
+    user_input = input("შეიყვანეთ რიცხვი ან 'sum' ჯამის გასათვლელად: ")
+
+    if user_input.lower() == "sum":
+        print(f"შეყვანილი დადებითი რიცხვების ჯამი არის: {total_sum}")
+        break
+
+    if user_input.isdigit():
+        number = int(user_input)
+        if number > 0:
+            total_sum += number
+        else:
+            print("გთხოვთ, შეიყვანეთ დადებითი რიცხვი.")
+    else:
+        print("გთხოვთ, შეიყვანეთ დადებითი რიცხვი ან 'sum' ჯამის გამოსათვლელად.")
 
 
 # 3

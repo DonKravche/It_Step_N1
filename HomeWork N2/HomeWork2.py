@@ -1,22 +1,22 @@
 # 1
 
-# user_input = int(input("Enter a number: "))
-#
-# if user_input % 2 == 0:
-#     print(user_input, "is an even number.")
-# else:
-#     print(user_input, "is an odd number.")
+user_input = int(input("Enter a number: "))
+
+if user_input % 2 == 0:
+    print(user_input, "is an even number.")
+else:
+    print(user_input, "is an odd number.")
 
 
 # 2
 
-# user_input = str(input("Enter Text: "))
-# a, b, c = 'small', 'tall', 'middle'
-#
-# if a in user_input or b in user_input or c in user_input:
-#     print(user_input)
-# else:
-#     print(f"In this text this words {a}, {b} and {c} can not be founded")
+user_input = str(input("Enter Text: "))
+a, b, c = 'small', 'tall', 'middle'
+
+if a in user_input or b in user_input or c in user_input:
+    print(user_input)
+else:
+    print(f"In this text this words {a}, {b} and {c} can not be founded")
 
 
 # 3
