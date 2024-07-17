@@ -1,4 +1,7 @@
 # 1
+from functools import reduce
+
+
 def zip_function():
     lst1 = [1, 2, 3]
     lst2 = ['a', 'b', 'c']
@@ -36,3 +39,24 @@ result = list(map(palindrome, user_input))
 print("Non-palindromes:", non_palindromes)
 
 # 5
+
+lst_number = [1, 2, 3, 4, 5]
+
+try:
+    result5 = reduce(lambda x, y: x * y, lst_number)
+    print(result5)
+
+except:
+    print("Error")
+
+# 6
+
+params = ['hello', 'world', 'coding', 'nod']
+ending = 'ing'
+
+try:
+    result6 = filter(lambda word: word.endswith(ending), params)
+    print(list(result6))
+
+except:
+    print("Error")
