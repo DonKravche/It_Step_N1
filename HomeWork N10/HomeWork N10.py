@@ -1,8 +1,6 @@
 # 1
 import random
 
-import random
-
 
 def binary_function():
     list_of_random_numbers = []
