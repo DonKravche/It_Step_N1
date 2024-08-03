@@ -87,7 +87,7 @@ for department in company:
     average_salary = 0
     for employee in company[department]:
         total_salary += employee["salary"]
-        average_salary = total_salary / len(company["HR"])
+        average_salary = total_salary / len(company[department])
 
     print(f"{department} average salary: {average_salary}")
 
