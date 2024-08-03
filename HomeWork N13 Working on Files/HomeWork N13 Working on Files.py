@@ -31,7 +31,6 @@ with open("second_task.txt", "w") as second_file:
 
 second_file.close()
 
-
 # 3
 
 with open("first_folder_of_third_task.txt", "r", encoding="utf-8") as first_file:
