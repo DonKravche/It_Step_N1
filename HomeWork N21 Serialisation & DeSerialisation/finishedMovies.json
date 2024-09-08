@@ -1,0 +1,582 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 278,
+        "original_language": "en",
+        "original_title": "The Shawshank Redemption",
+        "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+        "popularity": 151.435,
+        "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+        "release_date": "1994-09-23",
+        "title": "The Shawshank Redemption",
+        "video": false,
+        "vote_average": 8.704,
+        "vote_count": 25685,
+        "genres": [
+            "Old_Drama",
+            "New_Crime"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 238,
+        "original_language": "en",
+        "original_title": "The Godfather",
+        "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+        "popularity": 129.454,
+        "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "release_date": "1972-03-14",
+        "title": "The Godfather",
+        "video": false,
+        "vote_average": 8.7,
+        "vote_count": 19517,
+        "genres": [
+            "Old_Drama",
+            "New_Crime"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 240,
+        "original_language": "en",
+        "original_title": "The Godfather Part II",
+        "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+        "popularity": 86.326,
+        "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+        "release_date": "1974-12-20",
+        "title": "The Godfather Part II",
+        "video": false,
+        "vote_average": 8.6,
+        "vote_count": 11791,
+        "genres": [
+            "Old_Drama",
+            "New_Crime"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80,
+            53
+        ],
+        "id": 155,
+        "original_language": "en",
+        "original_title": "The Dark Knight",
+        "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+        "popularity": 108.751,
+        "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "release_date": "2008-07-16",
+        "title": "The Dark Knight",
+        "video": false,
+        "vote_average": 8.515,
+        "vote_count": 31529,
+        "genres": [
+            "Old_Drama",
+            "Action",
+            "New_Crime",
+            "Thriller"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l6hQWH9eDksNJNiXWYRkWqikOdu.jpg",
+        "genre_ids": [
+            14,
+            18,
+            80
+        ],
+        "id": 497,
+        "original_language": "en",
+        "original_title": "The Green Mile",
+        "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+        "popularity": 88.748,
+        "poster_path": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+        "release_date": "1999-12-10",
+        "title": "The Green Mile",
+        "video": false,
+        "vote_average": 8.508,
+        "vote_count": 16537,
+        "genres": [
+            "Fantasy",
+            "Old_Drama",
+            "New_Crime"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 680,
+        "original_language": "en",
+        "original_title": "Pulp Fiction",
+        "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+        "popularity": 125.178,
+        "poster_path": "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+        "release_date": "1994-09-10",
+        "title": "Pulp Fiction",
+        "video": false,
+        "vote_average": 8.489,
+        "vote_count": 26717,
+        "genres": [
+            "Thriller",
+            "New_Crime"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 769,
+        "original_language": "en",
+        "original_title": "GoodFellas",
+        "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+        "popularity": 72.494,
+        "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+        "release_date": "1990-09-12",
+        "title": "GoodFellas",
+        "video": false,
+        "vote_average": 8.467,
+        "vote_count": 12185,
+        "genres": [
+            "Old_Drama",
+            "New_Crime"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 598,
+        "original_language": "pt",
+        "original_title": "Cidade de Deus",
+        "overview": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+        "popularity": 35.263,
+        "poster_path": "/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
+        "release_date": "2002-08-30",
+        "title": "City of God",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 6951,
+        "genres": [
+            "Old_Drama",
+            "New_Crime"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uPYa165sraN2c8gZBM9C47g3JoU.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 311,
+        "original_language": "en",
+        "original_title": "Once Upon a Time in America",
+        "overview": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+        "popularity": 52.791,
+        "poster_path": "/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+        "release_date": "1984-05-23",
+        "title": "Once Upon a Time in America",
+        "video": false,
+        "vote_average": 8.425,
+        "vote_count": 5081,
+        "genres": [
+            "Old_Drama",
+            "New_Crime"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dYjZ27hDw2QFaEIfzbNGwW0IkV9.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 807,
+        "original_language": "en",
+        "original_title": "Se7en",
+        "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Sommerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+        "popularity": 67.732,
+        "poster_path": "/6yoghtyTpznpBik8EngEmJskVUO.jpg",
+        "release_date": "1995-09-22",
+        "title": "Se7en",
+        "video": false,
+        "vote_average": 8.372,
+        "vote_count": 20047,
+        "genres": [
+            "New_Crime",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 274,
+        "original_language": "en",
+        "original_title": "The Silence of the Lambs",
+        "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+        "popularity": 13.267,
+        "poster_path": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+        "release_date": "1991-02-14",
+        "title": "The Silence of the Lambs",
+        "video": false,
+        "vote_average": 8.348,
+        "vote_count": 15539,
+        "genres": [
+            "New_Crime",
+            "Old_Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jRJrQ72VLyEnVsvwfep8Xjlvu8c.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 101,
+        "original_language": "en",
+        "original_title": "L\u00e9on: The Professional",
+        "overview": "L\u00e9on, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in L\u00e9on's footsteps.",
+        "popularity": 61.785,
+        "poster_path": "/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg",
+        "release_date": "1994-09-14",
+        "title": "L\u00e9on: The Professional",
+        "video": false,
+        "vote_average": 8.312,
+        "vote_count": 14114,
+        "genres": [
+            "New_Crime",
+            "Old_Drama",
+            "Action"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/A62quSOB8otoZvGiLvMVZ9G4BiO.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            9648
+        ],
+        "id": 12493,
+        "original_language": "ja",
+        "original_title": "\u5929\u56fd\u3068\u5730\u7344",
+        "overview": "A shoe company executive who has mortgaged everything he has becomes a victim of extortion when his chauffeur's son is kidnapped and is conflicted over whether he should pay the ransom.",
+        "popularity": 24.078,
+        "poster_path": "/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+        "release_date": "1963-03-01",
+        "title": "High and Low",
+        "video": false,
+        "vote_average": 8.297,
+        "vote_count": 801,
+        "genres": [
+            "Old_Drama",
+            "New_Crime",
+            "Thriller",
+            "Mystery"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f72GEQF2lKsdmEULSI9bWCbQylH.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 29259,
+        "original_language": "fr",
+        "original_title": "Le Trou",
+        "overview": "Four prison inmates have been hatching a plan to literally dig out of jail when another prisoner, Claude Gaspard, is moved into their cell. They take a risk and share their plan with the newcomer. Over the course of three days, the prisoners and friends break through the concrete floor using a bed post and begin to make their way through the sewer system -- yet their escape is anything but assured.",
+        "popularity": 18.189,
+        "poster_path": "/8kxtOm7D992iAaOzUoWmNQwbXjs.jpg",
+        "release_date": "1960-03-18",
+        "title": "Le Trou",
+        "video": false,
+        "vote_average": 8.283,
+        "vote_count": 427,
+        "genres": [
+            "Old_Drama",
+            "Thriller",
+            "New_Crime"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AetjwIIITWQ5ueKKk9LQNaOFwVa.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            80
+        ],
+        "id": 37257,
+        "original_language": "en",
+        "original_title": "Witness for the Prosecution",
+        "overview": "When Leonard Vole is arrested for the sensational murder of a rich, middle-aged widow, the famous Sir Wilfrid Robarts agrees to appear on his behalf. Sir Wilfrid, recovering from a near-fatal heart attack, is supposed to be on a diet of bland, civil suits\u2014but the lure of the criminal courts is too much for him, especially when the case is so difficult.",
+        "popularity": 24.817,
+        "poster_path": "/mM5Cad2ESBprh6ucPnMzMfI34Cu.jpg",
+        "release_date": "1957-12-17",
+        "title": "Witness for the Prosecution",
+        "video": false,
+        "vote_average": 8.214,
+        "vote_count": 1282,
+        "genres": [
+            "Old_Drama",
+            "Mystery",
+            "New_Crime"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yIonSXf1jdNihhK8PssxO6KCIfz.jpg",
+        "genre_ids": [
+            878,
+            80
+        ],
+        "id": 185,
+        "original_language": "en",
+        "original_title": "A Clockwork Orange",
+        "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+        "popularity": 46.166,
+        "poster_path": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+        "release_date": "1971-12-19",
+        "title": "A Clockwork Orange",
+        "video": false,
+        "vote_average": 8.207,
+        "vote_count": 12309,
+        "genres": [
+            "Science Fiction",
+            "New_Crime"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7S7PE3vK9Eh5uzCYBDGk5qTJeYW.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 629,
+        "original_language": "en",
+        "original_title": "The Usual Suspects",
+        "overview": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor \u2013 leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+        "popularity": 48.092,
+        "poster_path": "/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+        "release_date": "1995-07-19",
+        "title": "The Usual Suspects",
+        "video": false,
+        "vote_average": 8.189,
+        "vote_count": 9903,
+        "genres": [
+            "Old_Drama",
+            "New_Crime",
+            "Thriller"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 1422,
+        "original_language": "en",
+        "original_title": "The Departed",
+        "overview": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+        "popularity": 45.271,
+        "poster_path": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+        "release_date": "2006-10-04",
+        "title": "The Departed",
+        "video": false,
+        "vote_average": 8.168,
+        "vote_count": 14214,
+        "genres": [
+            "Old_Drama",
+            "Thriller",
+            "New_Crime"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cCvp5Sni75agCtyJkNOMapORUQV.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 111,
+        "original_language": "en",
+        "original_title": "Scarface",
+        "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+        "popularity": 69.572,
+        "poster_path": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+        "release_date": "1983-12-09",
+        "title": "Scarface",
+        "video": false,
+        "vote_average": 8.168,
+        "vote_count": 11169,
+        "genres": [
+            "Action",
+            "New_Crime",
+            "Old_Drama"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7oJ5wrbS9Zs9AoxTjNb1siJKVq6.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 475557,
+        "original_language": "en",
+        "original_title": "Joker",
+        "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+        "popularity": 91.887,
+        "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+        "release_date": "2019-10-01",
+        "title": "Joker",
+        "video": false,
+        "vote_average": 8.164,
+        "vote_count": 24156,
+        "genres": [
+            "New_Crime",
+            "Thriller",
+            "Old_Drama"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 103,
+        "original_language": "en",
+        "original_title": "Taxi Driver",
+        "overview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action.",
+        "popularity": 77.088,
+        "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+        "release_date": "1976-02-09",
+        "title": "Taxi Driver",
+        "video": false,
+        "vote_average": 8.152,
+        "vote_count": 11546,
+        "genres": [
+            "New_Crime",
+            "Old_Drama"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kH8xW7K2Gp1KOXoeewcLPkfqZ8K.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 470044,
+        "original_language": "en",
+        "original_title": "The Hate U Give",
+        "overview": "Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she's torn between her two very different worlds as she tries to speak her truth.",
+        "popularity": 32.432,
+        "poster_path": "/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg",
+        "release_date": "2018-10-19",
+        "title": "The Hate U Give",
+        "video": false,
+        "vote_average": 8.141,
+        "vote_count": 2037,
+        "genres": [
+            "New_Crime",
+            "Old_Drama"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jqFjgNnxpXIXWuPsyfqmcLXRo9p.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 500,
+        "original_language": "en",
+        "original_title": "Reservoir Dogs",
+        "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+        "popularity": 39.186,
+        "poster_path": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+        "release_date": "1992-09-02",
+        "title": "Reservoir Dogs",
+        "video": false,
+        "vote_average": 8.129,
+        "vote_count": 13684,
+        "genres": [
+            "New_Crime",
+            "Thriller"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 100,
+        "original_language": "en",
+        "original_title": "Lock, Stock and Two Smoking Barrels",
+        "overview": "A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door.",
+        "popularity": 19.248,
+        "poster_path": "/wt2TRBmFmBn5M5MBcPTwovlREaB.jpg",
+        "release_date": "1998-08-28",
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "video": false,
+        "vote_average": 8.124,
+        "vote_count": 6245,
+        "genres": [
+            "Comedy",
+            "New_Crime"
+        ]
+    }
+]
