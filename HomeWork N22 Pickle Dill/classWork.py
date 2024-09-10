@@ -1,28 +1,25 @@
-# import json
-# import pickle
-#
-#
-# class Student:
-#     def __init__(self, first_name, last_name):
-#         self.first_name = first_name
-#         self.last_name = last_name
-#
-#
-# student1 = Student('John', 'Smith')
-#
-# # with open('student.json', 'w') as f:   -> This will give us Error that student1 isn't serializable
-# #     json.dump(student1, f)
-#
-# with open('student.pickle', 'wb') as f:
-#     pickle.dump(student1, f)
-#
-# with open('student.pickle', 'rb') as f:
-#     loaded_student = pickle.load(f)
-#
-# print(f"Loaded student: {loaded_student.first_name} {loaded_student.last_name}")
-
 import json
 import pickle
+
+
+class Student:
+    def __init__(self, first_name, last_name):
+        self.first_name = first_name
+        self.last_name = last_name
+
+
+student1 = Student('John', 'Smith')
+
+# with open('student.json', 'w') as f:   -> This will give us Error that student1 isn't serializable
+#     json.dump(student1, f)
+
+with open('student.pickle', 'wb') as f:
+    pickle.dump(student1, f)
+
+with open('student.pickle', 'rb') as f:
+    loaded_student = pickle.load(f)
+
+print(f"Loaded student: {loaded_student.first_name} {loaded_student.last_name}")
 
 
 class User:
