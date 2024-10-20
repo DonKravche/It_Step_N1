@@ -5,7 +5,7 @@ host = 'localhost'
 port = 5432
 database = 'postgres'
 user = 'postgres'
-password = 'shHZB4bL'
+password = 'Your_Password_here'
 
 
 def connect_to_db():
